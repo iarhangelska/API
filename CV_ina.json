@@ -1,0 +1,27 @@
+{
+
+  "name": "Ina",
+  "surname": "Arhangielska",
+  "age": 41,
+  "marriage": true,
+  "address": {
+              "city": "Minsk", 
+              "zip": "220000",
+			  "street": "odintsova street"
+              }
+  "phonenumbers": [ 
+                  "3756489351", 
+				  "3756489351"],
+  "email": "archangielska@gmail.com",
+  "education": ["MGVRK", "BSPU by M.Tanka", "MSLU"],
+  "experience": {
+               "work-related experience": false,
+			   "practical experience": true,
+			   "years": 13 
+                 },
+  
+  "soft skills": ["A", "B", "C", "D", "E"],
+  "hard skills": ["F", "G", "H", "I", "J"],
+  "hobbies": null
+
+}
